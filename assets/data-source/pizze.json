@@ -1,0 +1,17 @@
+[
+	{
+		"nome":"Margherita",
+		"ingredienti":["salsa","mozzarella","olio"],
+		"prezzo":4
+	},
+	{
+		"nome":"Capricciosa",
+		"ingredienti":["salsa","mozzarella","prosciutto cotto", "funghi", "uovo", "piselli"],
+		"prezzo":7
+	},
+	{
+		"nome":"4 Formaggi",
+		"ingredienti":["mozzarella","gorgonzola","svizzero","provola"],
+		"prezzo":8
+	}
+]
